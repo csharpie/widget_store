@@ -13,7 +13,7 @@ You are attempting to purchase a Widget. You must choose the number of widgets t
     * Widget Xtreme
 
 * Quantity
-    * No less than 1 and you may not have partial quanities
+    * No less than 1 and you may not have partial quantities
 
 * Earliest Date By
     * No less than 1 week from today
